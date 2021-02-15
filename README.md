@@ -25,18 +25,18 @@ Preview the prototype.
 ## PROTOTYPE:
 ![output](./static/img/p1.jpg)
 
-![output](./static/img/2.jpg)
+![output](./static/img/p2.jpg)
 
-![output](./static/img/3.jpg)
+![output](./static/img/p3.jpg)
 
-![output](./static/img/4.jpg)
+![output](./static/img/p4.jpg)
 
 
 ## RESULT:
 ![output](./static/img/p1.jpg)
 
-![output](./static/img/2.jpg)
+![output](./static/img/p2.jpg)
 
-![output](./static/img/3.jpg)
+![output](./static/img/p3.jpg)
 
-![output](./static/img/4.jpg)
+![output](./static/img/p4.jpg)
