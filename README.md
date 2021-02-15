@@ -17,12 +17,26 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-
+![output](./static/img/s1.jpg)
 
 ## WIREFRAME:
-
+![output](./static/img/w1.jpg)
 
 ## PROTOTYPE:
+![output](./static/img/p1.jpg)
+
+![output](./static/img/2.jpg)
+
+![output](./static/img/3.jpg)
+
+![output](./static/img/4.jpg)
 
 
 ## RESULT:
+![output](./static/img/p1.jpg)
+
+![output](./static/img/2.jpg)
+
+![output](./static/img/3.jpg)
+
+![output](./static/img/4.jpg)
